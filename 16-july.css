@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+
+}
+li{
+    display: flex;
+  
+}
+td{
+ 
+   padding-left: 3vw; 
+}
+
+tr button{
+    background-color: red;
+    color: yellow;
+    border-radius: 5px;
+    border: none;
+}
+.main{
+    text-align: center;
+    background-color: olive;
+    padding: 5vw;
+    margin-bottom: 3vw;
+}
+.list{
+    text-align: center;
+    background-color: olive;
+    padding: 5vw;
+
+}
